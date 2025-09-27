@@ -33,11 +33,11 @@ func main()  {
 	// area =0.5*base*height
 	// fmt.Printf("Area of tringle = %v\n",area)
 
-	var reduas,area float32
-	fmt.Printf("reduas number = ")
-	fmt.Scan(&reduas)
-	area = 3.1416*reduas*reduas
-	fmt.Printf("reduas number = %v\n",area)
+	var radius,area float32
+	fmt.Printf("radius number = ")
+	fmt.Scan(&radius)
+	area = 3.1416*radius*radius
+	fmt.Printf("radius number = %v\n",area)
 
 
 
