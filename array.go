@@ -29,5 +29,7 @@ func main(){
 	// fmt.Println(studentName)
 	// fmt.Println(len(studentName))
 
+	// done array and slice
+
 	
 }
