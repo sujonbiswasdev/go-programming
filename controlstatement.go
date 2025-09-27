@@ -54,4 +54,33 @@ func main()  {
 	// }else{
 	// 	fmt.Printf("Number is equal\n")
 	// }
+
+
+
+	// var num1,num2, num3 int
+	// fmt.Printf("enter first numbers : ")
+	// fmt.Scan(&num1)
+
+	// fmt.Printf("enter secound numbers : ")
+	// fmt.Scan(&num2)
+
+	// fmt.Printf("enter third numbers : ")
+	// fmt.Scan(&num3)
+
+	// if num1>num2 {
+	// 	if num1>num3{
+	// 		fmt.Printf("num1 is largest number %v\n",num1)
+	// 	}else{
+	// 		fmt.Printf("num3 is largest number %v\n",num3)
+	// 	}
+	// }else if num2>num1 {
+	// 	if num2 > num3 {
+	// 		fmt.Printf("num2 is largest number %v",num2)
+	// 	}else {
+	// 		fmt.Printf("num3 is largest number %v\n",num3)
+	// 	}
+	// }else {
+	// 	fmt.Printf("number is eqaul \n")
+	// }
+		
 }
