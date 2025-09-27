@@ -82,5 +82,7 @@ func main()  {
 	// }else {
 	// 	fmt.Printf("number is eqaul \n")
 	// }
+
+	
 		
 }
