@@ -16,11 +16,18 @@ func main(){
 	// fmt.Println(cars[choice])
 	// }
 
-	// var studentName [5] string
-	// for i:=0;i<5;i++{
+	// var studentName [] string
+	// var studentsName string
+	// var numberofStudent int
+	// fmt.Printf("how many students : ")
+	// fmt.Scan(&numberofStudent)
+	// for i:=0;i<numberofStudent;i++{
 	// 	fmt.Print("enter student name : ")
-	// 	fmt.Scan(&studentName[i])
+	// 	fmt.Scan(&studentsName)
+	// 	studentName = append(studentName,studentsName)
 	// }
 	// fmt.Println(studentName)
+	// fmt.Println(len(studentName))
+
 	
 }
