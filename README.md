@@ -1,1 +1,1 @@
-<h1>go mod init go-programming</h1>
+<h1>go mod init your-folder-name(go-programming)</h1>
